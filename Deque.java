@@ -13,6 +13,7 @@ class HelloWorld {
         System.out.println("queue: " + q);
         System.out.println("Dequeue the elemnt: " + q.pollFirst());
         // or pollLast or poll
+        // can have peekFirst(), and peekLast() and peek()
         //rest are the same, ListIterator for iteration, and to add we use add
     }
 }
