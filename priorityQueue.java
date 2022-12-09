@@ -24,4 +24,6 @@ Output:
 2
 3
 queue: [2, 3]
+
+if it was 1 3 2 then on poll it would have resulted in the same array as the smallest element is removed
 */
