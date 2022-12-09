@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class Main{
     public static void main(String args[]){
         ArrayList<Integer> stack = new ArrayList<Integer>();
+        //can replace ArrayList with LinkedList for the same
         
         
         stack.add(1);
