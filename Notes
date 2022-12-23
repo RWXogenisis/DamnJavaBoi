@@ -1,0 +1,10 @@
+you can use Character, Boolean, Integer, String, Float, Double in coollections as all these are wrapper classes
+
+array.removeIf(a->(a%2==0)); //removes the even numbers
+
+
+
+Collections.sort(array); //ascending order
+Collections.sort(array, Collections.reverseOrder()); //descending order
+
+.equals tells us if 2 arraylist are equal or not 
